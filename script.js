@@ -1,5 +1,5 @@
 function acender() {
-    document.body.style.backgroundColor = "yellow"; // muda o fundo
+    document.body.style.backgroundColor = "orange"; // muda o fundo
 }
 
 function apagar() {
